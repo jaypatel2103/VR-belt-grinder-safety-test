@@ -1,1 +1,1 @@
-# VR-belt-grinder-safety-test
+# VR-belt-grinder-safety-training
